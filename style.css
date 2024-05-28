@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    font-family: "Radio Canada Big", sans-serif;
+    background-color: rgb(56, 56, 70);
+margin: 200px;
+display: flex;
+ padding-left: 50px;
+
+
+}
+
+.section{
+
+    background-color: white;
+    padding: 30px;
+    
+width: 700px;
+height: 440px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+border-radius: 20px;
+padding-top: 50px;
+
+
+ }
+
+.title h1{
+font-size: 40px; 
+    font-weight: 100;
+ }
+
+.nav-1{
+
+    display: flex;
+    gap: 10px;
+    color: rgb(126, 123, 123);
+
+
+    
+    
+ }
+
+.nav-2{
+    display: flex;
+    gap: 10px;
+    color: rgb(126, 123, 123);
+
+ 
+}
+
+.nav-3{
+    display: flex;
+    gap: 10px;
+    color: rgb(126, 123, 123);
+
+ 
+}
+.btn1{
+color: rgb(153, 157, 157);
+padding: 10px;
+background-color: white;
+width: 250px;
+border: 1px solid gainsboro;
+border-radius: 10px;
+}
+
+.btn2{
+    padding: 10px;
+    width: 250px;
+    background-color: rgb(11, 11, 68);
+    color: white;
+    border-radius: 10px;
+
+
+}
+
+.footer{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   margin-top: 20px;
+}
+
+
+.title h5{
+    width: 350px;
+    padding-bottom: 10px;
+    color: rgb(126, 123, 123);
+
+ }
+.title{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.img{
+    position: relative;
+    right: 350px;
+    top: 20px;
+
+}
+.footer h6{
+    color: rgb(45, 43, 43);
+}
+ 
+ 
+
+
